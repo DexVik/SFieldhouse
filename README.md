@@ -1,4 +1,4 @@
-Sam Fieldhouse - Cyber security Engineer (Incident Response and Automation)
+Sam Fieldhouse - Cyber Security Engineer (Incident Response and Automation)
 ------------------------------------
 
 * I have a strong focus on Incident response and malware analysis, and frequently wok on incidents that then drive the development of automations to assist in the process.
